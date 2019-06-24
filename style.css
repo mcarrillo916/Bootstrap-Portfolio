@@ -14,19 +14,24 @@
     background-color: aliceblue;
     font-family: 'Open Sans', sans-serif;
 }
-.card mb-3 {
+.card-mb-3 {
     text-align: center;
     max-width: 100%;
 }
 .col-md-4 {
+    background-color: aliceblue;
     float: right;
     margin-top: 80px;
 }
-.containerProject1 {
-    padding: 0px;
-    float: left;
-    margin-block: 0px;
+.containerProjectTotal {
+    background-color: #666;
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
-.containerProject2 {
-    padding: 0px;
+.containerProject1{
+    background-color: #666;
+}
+.containerProject2{
+    background-color: #666;
 }
